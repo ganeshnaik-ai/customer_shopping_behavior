@@ -26,7 +26,7 @@ Customer Behavior: previous_purchases, frequency_of_purchases
 Transaction Details: payment_method, shipping_type, discount_applied
 Location Data: location
 Feedback: review_rating
-```
+
 ## Technologies Used
 - Python
 - Pandas (Data Processing)
